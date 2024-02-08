@@ -1,0 +1,3 @@
+[submodule "f_pipeline"]
+	path = f_pipeline
+	url = https://github.com/Rasel1435/book-recommender-system.git
